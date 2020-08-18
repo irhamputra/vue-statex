@@ -1,2 +1,7 @@
 # Project exclude paths
 /node_modules/
+!/dist/
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/vue-statex.iml
+/.idea/workspace.xml
